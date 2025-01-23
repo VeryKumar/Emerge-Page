@@ -3,18 +3,18 @@ import {FeatureCard} from "@/components/feature-card";
 
 const features = [
     {
-        title: "Integration Ecosystem",
-        description: "Enhance your productivity by connecting with your tools, keeping your essentials in one place.",
+        title: "Front To Back Communication ",
+        description: "Seamless front-to-back communication. Our platform provides both clinical and finance teams with the clarity they need to make more informed billing decisions.",
         icon: <MonitorSmartphone className={"size-7"} />,
     },
     {
-        title: "Goal Setting and Tracking",
-        description: "Define and track your goals, breaking down objectives into achievable tasks to keep your targets in sight.",
+        title: "Optimize Workflows",
+        description: "Generates revenue-boosting workflows so staff can offload the heavy lifting to AI Agents.",
         icon: <Goal className={"size-7"} />,
     },
     {
-        title: "Secure Data Encryption",
-        description: "With end-to-end encryption, your data is securely stored and protected from unauthorized access.",
+        title: "Automate Appeals and Wipe Away Audit Risk",
+        description: "Our AI agents accurately interpret ERAs, generate appeal plans, and only request human assistance for tasks like document uploads—all while keeping your billing aligned with national standards.",
         icon: <ShieldCheck className={"size-7"} />,
     },
 ]
@@ -27,9 +27,7 @@ export function FeaturesSection() {
                     <h1 className={"text-5xl sm:text-6xl font-bold text-center tracking-tighter pt-6"}>Everything you need</h1>
                     <div className={"max-w-3xl mx-auto"}>
                         <p className={"text-center mt-5 text-xl text-white/70"}>
-                            Enjoy customization lists, team work tools, and smart tracking all in
-                            one place. Set tasks, get reminders, and see your progress simply and
-                            quickly.
+                        AI-driven risk management, claims optimization, and ambient note transcription— streamline operations and boost claim approvals.
                         </p>
                     </div>
                     <div className={"flex items-center justify-center mt-16"}>
