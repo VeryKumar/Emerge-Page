@@ -36,7 +36,7 @@ export function ProductShowcase() {
                                 transformPerspective: "800px"
                             }}
                         >
-                            <Image src={AppScreen} alt={"Product Showcase"} ref={appImage} width={500} height={300} />
+                            <Image src={AppScreen} alt={"Product Showcase"} ref={appImage} />
                         </motion.div>
                     </div>
                 </div>
