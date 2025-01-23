@@ -30,8 +30,7 @@ export function CtaSection() {
                     </motion.div>
                     <h2 className={"text-5xl font-bold tracking-tight text-center"}>Get Instant Access</h2>
                         <p className={"text-lg text-center text-white/70 mt-5 "}>
-                            Celebrate the joy of accomplishment with an app designed to track your
-                            progress and motivates your efforts.
+                            See medicine differently -- without the headache.
                         </p>
                     <form className={"flex flex-col sm:flex-row gap-2.5 mt-10"}>
                         <Input placeholder={"Enter your email"} className={"bg-muted"} />

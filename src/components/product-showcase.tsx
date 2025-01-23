@@ -24,8 +24,7 @@ export function ProductShowcase() {
                     <h2 className={"text-center text-5xl sm:text-6xl font-bold tracking-tighter"}>Intuitive Interface</h2>
                     <div className={"max-w-3xl mx-auto"}>
                         <p className={"text-xl text-white/70 mt-5 text-center"}>
-                            Celebrate the joy of accomplishment with an app designed to track your progress, motivates
-                            your efforts, and celebrate yoy successes, one task at a time.
+                        Leave the admin drudgery behind—focus on what matters most: patient care.
                         </p>
                     </div>
                     <div className={"flex items-center justify-center mt-14"}>
