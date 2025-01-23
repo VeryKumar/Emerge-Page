@@ -1,6 +1,6 @@
 "use client"
 
-import AppScreen from "../assets/images/app-screen.png";
+import AppScreen from "../assets/images/claims-processing.png";
 import Image from "next/image";
 import {motion, useScroll, useTransform} from "framer-motion";
 import {useRef} from "react";
